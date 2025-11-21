@@ -1,0 +1,7 @@
+pytest==8.3.5
+pytest-playwright==0.5.2
+playwright==1.48.0
+pytest-timeout==2.0.0
+pytest-html
+requests==2.31.0 #api dependency
+
